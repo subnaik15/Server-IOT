@@ -8,3 +8,11 @@ We have pused puTTy to connect to SSH AMI Linux instance, which is a t2.micron i
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
 
 https://www.mongodb.com/cloud/atlas
+
+API List(POSTMAN):
+
+https://www.getpostman.com/collections/f6a44548be9a6221f73a
+
+
+
+
